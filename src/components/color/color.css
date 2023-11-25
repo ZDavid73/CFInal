@@ -1,0 +1,32 @@
+/* Estilo general para el componente */
+app-colores {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+app-colores article {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+app-colores h3, app-colores h4 {
+    margin: 0;
+    padding: 10px 0;
+    color: #444;
+}
+
+app-colores h3 {
+    font-size: 1.2em;
+    border-bottom: 1px solid #ddd;
+}
+
+app-colores h4 {
+    font-size: 1em;
+    color: #666;
+}
